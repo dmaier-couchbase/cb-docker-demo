@@ -1,4 +1,4 @@
-# Webinar Demo
+# Docker Demo
 
 The following steps can be performed in order to show basic administrative tasks:
 
